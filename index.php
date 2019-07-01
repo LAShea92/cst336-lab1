@@ -14,6 +14,7 @@ in html
     <head>
         <meta charset="utf-8" />
       <title> Juan Doe: Personal Website </title>
+      <link href="css/styles.css" rel="stylesheet" type="test/css" />
     </head>
 <!-- closing head -->
 
