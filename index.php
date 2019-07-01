@@ -28,7 +28,23 @@ in html
           <a href="index.php">Home</a>
           <a href="about.html">About</a>
           <a href="contact.html">Contact</a>
-        </nav>        
+        </nav>
+        <br /><br />
+      
+        <main>
+          <figure>
+            <img src="img/juan_doe.png" alt="Picture of Juan Doe" />
+          </figure>
+          
+          <div>
+            Hello! <br />
+            <p>Thank you for visiting my professional portfolio website.</p>
+            <p>I am a Software Engineer and have been recently hired at the Acme Corporation</p>
+            <p>Feel free to contact me!</p>
+            <br /><br />
+            <em>"With ordinary talen and extraordinary<strong>perserverance</strong>, all things are attainable"</em></br /> - Thomas F. Buxton
+          </div>
+        </main>
         
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
