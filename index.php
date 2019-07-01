@@ -42,7 +42,7 @@ in html
             <p>I am a Software Engineer and have been recently hired at the Acme Corporation</p>
             <p>Feel free to contact me!</p>
             <br /><br />
-            <em>"With ordinary talen and extraordinary<strong>perserverance</strong>, all things are attainable"</em></br /> - Thomas F. Buxton
+            <em>"With ordinary talen and extraordinary<strong>perserverance </strong>, all things are attainable"</em></br /> - Thomas F. Buxton
           </div>
         </main>
         
