@@ -49,8 +49,10 @@ in html
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
         <footer>
-            
-            
+            <hr>
+              CST336 Internet Programming. 2019 Shea <br />
+              <strong>Disclaimer:</strong> The information on this website is fake. <br />
+              It is for academic purposes only.            
         </footer>
         <!-- closing footer -->
         
