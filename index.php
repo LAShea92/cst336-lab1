@@ -20,8 +20,15 @@ in html
     <!-- This is the body -->
     <!-- This is where we place the content of our website -->
     <body>
-        
-        
+        <header>
+          <h1> Juan Doe </h1>
+        </header>
+        <hr />
+        <nav>
+          <a href="index.php">Home</a>
+          <a href="about.html">About</a>
+          <a href="contact.html">Contact</a>
+        </nav>        
         
         <!-- This is the footer -->
         <!-- The footer goes inside the body but not always -->
