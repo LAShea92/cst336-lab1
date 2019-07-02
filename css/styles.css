@@ -56,3 +56,9 @@ ul {
   margin: 0 auto;
   text-align: left;
 }
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 4em;
+  margin-bottom: 0px;
+}
