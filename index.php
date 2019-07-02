@@ -40,10 +40,10 @@ in html
           <div>
             Hello! <br />
             <p>Thank you for visiting my professional portfolio website.</p>
-            <p>I am a Software Engineer and have been recently hired at the Acme Corporation</p>
+            <p>I am a Software Engineer and have been recently hired at the Acme Corporation.</p>
             <p>Feel free to contact me!</p>
             <br /><br />
-            <em>"With ordinary talen and extraordinary <strong>perserverance</strong>, all things are attainable"</em></br /> - Thomas F. Buxton
+            <em>"With ordinary talent and extraordinary <strong>perseverance</strong>, all things are attainable"</em></br /> - Thomas F. Buxton
           </div>
         </main>
         
@@ -51,7 +51,7 @@ in html
         <!-- The footer goes inside the body but not always -->
         <footer>
             <hr>
-              CST336 Internet Programming. 2019 Shea <br />
+              CST336 Internet Programming. 2019&copy Shea <br />
               <strong>Disclaimer:</strong> The information on this website is fake. <br />
               It is for academic purposes only.            
         </footer>
