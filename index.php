@@ -12,7 +12,7 @@ in html
 <!-- This is the head -->
 <!-- All styles and javascript go inside the head -->
     <head>
-        <meta charset="utf-8" />
+      <meta charset="utf-8" />
       <title> Juan Doe: Personal Website </title>
       <link href="css/styles.css" rel="stylesheet" type="text/css" />
       <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
@@ -38,7 +38,7 @@ in html
             <img src="img/juan_doe.png" alt="Picture of Juan Doe" />
           </figure>
           
-          <div>
+          <div id="content">
             Hello! <br />
             <p>Thank you for visiting my professional portfolio website.</p>
             <p>I am a Software Engineer and have been recently hired at the Acme Corporation.</p>
