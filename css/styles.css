@@ -55,6 +55,10 @@ td strong {
   color: #00ffff;
 }
 
+#content{
+  justify-content:center;
+}
+
 ul {
   width:500px;
   margin: 0 auto;
