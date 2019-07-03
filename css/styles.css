@@ -48,6 +48,10 @@ iframe {
   background-color: #351a00;
 }
 
+#logo {
+  align-content:left;
+}
+
 .table-row {
   background-color: #753900;
 }
@@ -71,4 +75,8 @@ h1 {
   font-size: 4em;
   margin-bottom: 0px;
   color: white;
+}
+
+footer {
+  font-size: .5em;
 }
