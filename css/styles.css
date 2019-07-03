@@ -39,6 +39,11 @@ td strong {
   color: orange;
 }
 
+iframe {
+  width: 640px;
+  margin: 0px;
+}
+
 #table-header {
   background-color: #351a00;
 }
@@ -53,10 +58,6 @@ td strong {
 
 .active{
   color: #00ffff;
-}
-
-#content{
-  justify-content:center;
 }
 
 ul {
