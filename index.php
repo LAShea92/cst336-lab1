@@ -54,7 +54,8 @@ in html
             <hr>
               CST336 Internet Programming. 2019&copy Shea <br />
               <strong>Disclaimer:</strong> The information on this website is fake. <br />
-              It is for academic purposes only.            
+              It is for academic purposes only. 
+            <img src="img/logo.png" alt="CSUMB Logo" />
         </footer>
         <!-- closing footer -->
         
