@@ -51,9 +51,8 @@ td strong {
   color: yellow;
 }
 
-div{
-  justify-content: center;
-  color: white;
+.active{
+  color: cyan;
 }
 
 ul {
