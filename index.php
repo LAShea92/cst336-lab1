@@ -35,16 +35,16 @@ in html
       
         <main>
           <figure>
-            <img src="img/juan_doe.png" alt="Picture of Juan Doe" />
+            <img src="img/pepehands.jpg" alt="pepehands" />
           </figure>
           
-          <div id="content">
+          <div>
             Hello! <br />
             <p>Thank you for visiting my professional portfolio website.</p>
             <p>I am a Software Engineer and have been recently hired at the Acme Corporation.</p>
             <p>Feel free to contact me!</p>
             <br /><br />
-            <em>"With ordinary talent and extraordinary <strong>perseverance</strong>, all things are attainable"</em></br /> - Thomas F. Buxton
+            <em>"With ordinary talent and extraordinary <strong>perseverance</strong>, all things are attainable"</ems></br /> - Thomas F. Buxton
           </div>
         </main>
         
